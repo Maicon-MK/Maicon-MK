@@ -13,9 +13,7 @@
   <img align="center" alt="mk-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="mk-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="mk-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
-  ##
-   <img align="right" alt="mk-yoda" src="http://66.media.tumblr.com/085127b204abfdb89f4765e7b0ca7de1/tumblr_inline_mvtv9bCGhW1s9pnq5.gif">
+  <img align="right" alt="mk-yoda" src="http://66.media.tumblr.com/085127b204abfdb89f4765e7b0ca7de1/tumblr_inline_mvtv9bCGhW1s9pnq5.gif">
   </div>
   
   ## 

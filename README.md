@@ -20,7 +20,7 @@
     <img align="center" alt="mk-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
     <img align="center" alt="mk-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
     <img align="center" alt="mk-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="right" alt="mk-yoda" src="http://66.media.tumblr.com/085127b204abfdb89f4765e7b0ca7de1/tumblr_inline_mvtv9bCGhW1s9pnq5.gif">
+  <img align="right" alt="mk-yoda" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGNndGYwcWl5d2x1dXRoc2EyejA5MXlwZzVidnUzaG95Mm0xeWxpZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1Aj491qX7K45qZs6EP/giphy.gif">
   </div>
   
   ## 
